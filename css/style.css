@@ -554,7 +554,7 @@ body {
 /*---our-custumers---*/
 
 .custumers-text {
-  width: 390px;
+  width: 391px;
   height: 42px;
   left: 606px;
   top: 2401px;
@@ -566,6 +566,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 50px;
+  display: flex;
 }
 
 .custumers-list {
